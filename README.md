@@ -1,7 +1,7 @@
 # Hi, I'm PETE 👋
 
-🔭 **Piping Engineer** 
-🌱 **Data Analytics and Data Science Master Student ** at NIDA
+🔭 **Piping Engineer**<br>
+🌱 **Data Analytics and Data Science Master Student ** at NIDA<br>
 
 
 <!--
