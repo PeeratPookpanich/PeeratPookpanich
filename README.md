@@ -14,9 +14,11 @@
 - **BI Tools**: &nbsp; <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
 - **Big Data**: &nbsp; <img src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16" />
 
-
-
-
+### Project :pencil2:
+- [Exploratory Data Analysis on COVID-19 Thailand Dataset using python](https://github.com/PeeratPookpanich/covid19_analysis_thailand) <br>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-008FC7?style=for-the-badge&logo=plotly&logoColor=white" /> <img src="https://img.shields.io/badge/Seaborn-071D49?style=for-the-badge&logo=plotly&logoColor=white" />
+- [Food Tracking Project](https://github.com/PeeratPookpanich/food_tracking_project) <br>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 
 
 
