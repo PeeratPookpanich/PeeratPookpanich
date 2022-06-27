@@ -16,9 +16,9 @@
 
 ## Project :pencil2:
 ### Data Analysis and Visualization
-- [**COVID-19 Analysis in Thailand**](https://github.com/PeeratPookpanich/covid19_analysis_thailand) : Exploratory Data Analysis on COVID-19 Thailand Dataset using python <br> Tools : Python/ Matplotlib/ Seaborn/ Plotly 
+- [**COVID-19 Analysis in Thailand**](https://github.com/PeeratPookpanich/covid19_analysis_thailand/blob/main/DADS5001_MidtermProject_6410422017_Peerat.ipynb) : Exploratory Data Analysis on COVID-19 Thailand Dataset using python <br> Tools : Python/ Matplotlib/ Seaborn/ Plotly 
 <!--<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-008FC7?style=for-the-badge&logo=plotly&logoColor=white" /> <img src="https://img.shields.io/badge/Seaborn-071D49?style=for-the-badge&logo=plotly&logoColor=white" />-->
-- [**Food Tracking Project**](https://github.com/PeeratPookpanich/food_tracking_project) : Database design & Exploratory Data Analysis with food tracking data <br>
+- [**Food Tracking Project**](https://github.com/PeeratPookpanich/food_tracking_project/blob/main/DADS4002_Group7_DataQueryandInsight.ipynb) : Database design & Exploratory Data Analysis with food tracking data <br>
 Tools : Python/ MySQL/ Matplotlib/ Seaborn/ Plotly
 <!--<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-008FC7?style=for-the-badge&logo=plotly&logoColor=white" /> <img src="https://img.shields.io/badge/Seaborn-071D49?style=for-the-badge&logo=plotly&logoColor=white" />-->
 ### Machine Learning
