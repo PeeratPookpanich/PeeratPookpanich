@@ -18,6 +18,7 @@
 - [**COVID-19 Analysis in Thailand**](https://github.com/PeeratPookpanich/covid19_analysis_thailand) : Exploratory Data Analysis on COVID-19 Thailand Dataset using python <br> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> 
 - [**Food Tracking Project**](https://github.com/PeeratPookpanich/food_tracking_project) : Database design & Exploratory Data Analysis with food tracking data <br>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+- [**In-class Applied ML competition**](https://github.com/PeeratPookpanich/classification_model_competition) : Applied Machine Learning competition in binary classification problem <br> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 
 
 
