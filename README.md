@@ -1,8 +1,8 @@
 # Hi, I'm PETE 👋
 
 ### Hi, my name is Peerat Pookpanich
-- 🔭 I’m currently working on **Piping Engineer**
-- 🌱 I’m currently studying **Master of Data Analytics and Data Science @ NIDA**
+- 🔭 currently working on **Piping Engineer**
+- 🌱 currently studying **Master of Data Analytics and Data Science @ NIDA**
 - 📫 How to reach me: **peerat.pookpanich@gmail.com**
 - ⚡ Field of interests: **Data Analytics/ Statistics/ Machine Learning**
 
