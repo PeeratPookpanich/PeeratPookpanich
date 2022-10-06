@@ -1,7 +1,7 @@
 # Hi, I'm PETE 👋
 
 ### Hi, my name is Peerat Pookpanich
-- 🔭 currently working on **Piping Engineer**
+- 🔭 currently working on **Data Scientist @ Muang Thai Life Assurance Public Company Limited**
 - 🌱 currently studying **Master of Data Analytics and Data Science @ NIDA**
 - 📫 How to reach me: **peerat.pookpanich@gmail.com**
 - ⚡ Field of interests: **Data Analytics/ Statistics/ Machine Learning**
