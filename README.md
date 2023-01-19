@@ -18,20 +18,20 @@
 
 ## Project :pencil2:
 ### Data Analysis and Visualization
-- [**COVID-19 Analysis in Thailand**](https://github.com/PeeratPookpanich/covid19_analysis_thailand/blob/main/DADS5001_MidtermProject_6410422017_Peerat.ipynb) : Exploratory Data Analysis on COVID-19 Thailand Dataset using python <br> **Tools** : Python/ Matplotlib/ Seaborn/ Plotly 
+- [**COVID-19 Analysis in Thailand**](https://github.com/PeeratPookpanich/covid19_analysis_thailand/blob/main/DADS5001_MidtermProject_6410422017_Peerat.ipynb) : Exploratory Data Analysis on COVID-19 Thailand Dataset using python <br> **Tools** : Python | Matplotlib | Seaborn | Plotly 
  
-- [**Food Tracking Project**](https://github.com/PeeratPookpanich/food_tracking_project/blob/main/DADS4002_Group7_DataQueryandInsight.ipynb) : Database design & Exploratory Data Analysis with food tracking data<br> **Tools** : Python/ MySQL/ Matplotlib/ Seaborn/ Plotly
+- [**Food Tracking Project**](https://github.com/PeeratPookpanich/food_tracking_project/blob/main/DADS4002_Group7_DataQueryandInsight.ipynb) : Database design & Exploratory Data Analysis with food tracking data<br> **Tools** : Python | MySQL | Matplotlib | Seaborn | Plotly
 
 ### Machine Learning
-- [**In-class Applied ML competition**](https://github.com/PeeratPookpanich/classification_model_competition) : Applied Machine Learning competition in binary classification problem.<br> **Tools** : Python/ Scikit-Learn/ Matplotlib/ Seaborn
+- [**In-class Applied ML competition**](https://github.com/PeeratPookpanich/classification_model_competition) : Applied Machine Learning competition in binary classification problem.<br> **Tools** : Python | Scikit-Learn | Matplotlib | Seaborn
 
 ### Deep Learning
-- [**Structured data: Traditional ML vs MLP**](https://github.com/PeeratPookpanich/stroke_prediction) : Compare a self-designed Multi-layer perceptron network with traditional machine learning techniques.<br> **Tools** : Python/ Scikit-Learn/ Keras/ TensorFlow
+- [**Structured data: Traditional ML vs MLP**](https://github.com/PeeratPookpanich/stroke_prediction) : Compare a self-designed Multi-layer perceptron network with traditional machine learning techniques.<br> **Tools** : Python | Scikit-Learn | Keras | TensorFlow
  
-- [**The eggplant image classification**](https://github.com/PeeratPookpanich/CNN_Classification) : Classify eggplant images using pre-trained CNN models.<br> **Tools** : Python/ Keras/ TensorFlow
+- [**The eggplant image classification**](https://github.com/PeeratPookpanich/CNN_Classification) : Classify eggplant images using pre-trained CNN models.<br> **Tools** : Python | Keras | TensorFlow
 
 ### Data Streaming & Real-Time Analytics
-- [**Real-Time analytics in DotA2 TI Tournament**](https://github.com/PeeratPookpanich/CNN_Classification) : Real-Time analytics and monitoring comments in youtube live.<br> **Tools** : Python/ Google Cloud Pub/Sub/ Google Cloud DataFlow/ Google BigQuery/ Grafana Dashboard
+- [**Real-Time analytics in DotA2 TI Tournament**](https://github.com/PeeratPookpanich/CNN_Classification) : Real-Time analytics and monitoring comments in youtube live.<br> **Tools** : Python | Google Cloud Pub/Sub | Google Cloud DataFlow | Google BigQuery | Grafana Dashboard
 
 
 
