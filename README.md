@@ -31,7 +31,7 @@
 - [**The eggplant image classification**](https://github.com/PeeratPookpanich/CNN_Classification) : Classify eggplant images using pre-trained CNN models.<br> **Tools** : Python | Keras | TensorFlow
 
 ### Data Streaming & Real-Time Analytics
-- [**Real-Time analytics in DotA2 TI Tournament**](https://github.com/PeeratPookpanich/CNN_Classification) : Real-Time analytics and monitoring comments in youtube live.<br> **Tools** : Python | Google Cloud Pub/Sub | Google Cloud DataFlow | Google BigQuery | Grafana Dashboard
+- [**Real-Time analytics in DotA2 TI Tournament**](https://github.com/PeeratPookpanich/3PMT_DADS6005_Realtime) : Real-Time analytics and monitoring comments in youtube live.<br> **Tools** : Python | Google Cloud Pub/Sub | Google Cloud DataFlow | Google BigQuery | Grafana Dashboard
 
 
 
